@@ -1,0 +1,11 @@
+Requirements / Prerequisites
+
+1. Node.js v18 or newer
+2. npm v9 or newer
+3. PostgreSQL v13 or newer
+4. A Google Gemini API key (for @google/generative-ai)
+5. Internet connectivity to install npm packages
+
+Recommended VS Code extensions: ESLint, Prettier
+
+
